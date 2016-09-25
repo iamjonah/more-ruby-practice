@@ -12,3 +12,4 @@ thing_three = gets.strip
 puts ("These are a few of my favorite things: #{thing_one}, #{thing_two}, #{thing_three}")
 
 # this is a comment
+# this is my second comment!
